@@ -1,0 +1,14 @@
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\bin\Debug\net8.0\AluguelCarro_Static.exe
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\bin\Debug\net8.0\AluguelCarro_Static.deps.json
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\bin\Debug\net8.0\AluguelCarro_Static.runtimeconfig.json
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\bin\Debug\net8.0\AluguelCarro_Static.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\bin\Debug\net8.0\AluguelCarro_Static.pdb
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.AssemblyInfoInputs.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.AssemblyInfo.cs
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.csproj.CoreCompileInputs.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\refint\AluguelCarro_Static.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.pdb
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\AluguelCarro_Static.genruntimeconfig.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Static\AluguelCarro_Static\obj\Debug\net8.0\ref\AluguelCarro_Static.dll

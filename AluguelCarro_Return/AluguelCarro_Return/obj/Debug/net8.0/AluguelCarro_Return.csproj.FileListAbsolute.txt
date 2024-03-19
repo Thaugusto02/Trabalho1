@@ -1,0 +1,14 @@
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\bin\Debug\net8.0\AluguelCarro_Return.exe
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\bin\Debug\net8.0\AluguelCarro_Return.deps.json
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\bin\Debug\net8.0\AluguelCarro_Return.runtimeconfig.json
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\bin\Debug\net8.0\AluguelCarro_Return.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\bin\Debug\net8.0\AluguelCarro_Return.pdb
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.AssemblyInfoInputs.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.AssemblyInfo.cs
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.csproj.CoreCompileInputs.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\refint\AluguelCarro_Return.dll
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.pdb
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\AluguelCarro_Return.genruntimeconfig.cache
+C:\Users\gqmeq\source\repos\AluguelCarro_Return\AluguelCarro_Return\obj\Debug\net8.0\ref\AluguelCarro_Return.dll

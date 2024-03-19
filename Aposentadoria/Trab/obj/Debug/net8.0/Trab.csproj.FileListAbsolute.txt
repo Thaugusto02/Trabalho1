@@ -1,0 +1,14 @@
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.AssemblyInfoInputs.cache
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.AssemblyInfo.cs
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.csproj.CoreCompileInputs.cache
+C:\Users\gqmeq\source\repos\Trab\Trab\bin\Debug\net8.0\Trab.exe
+C:\Users\gqmeq\source\repos\Trab\Trab\bin\Debug\net8.0\Trab.deps.json
+C:\Users\gqmeq\source\repos\Trab\Trab\bin\Debug\net8.0\Trab.runtimeconfig.json
+C:\Users\gqmeq\source\repos\Trab\Trab\bin\Debug\net8.0\Trab.dll
+C:\Users\gqmeq\source\repos\Trab\Trab\bin\Debug\net8.0\Trab.pdb
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.dll
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\refint\Trab.dll
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.pdb
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\Trab.genruntimeconfig.cache
+C:\Users\gqmeq\source\repos\Trab\Trab\obj\Debug\net8.0\ref\Trab.dll
