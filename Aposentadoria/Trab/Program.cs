@@ -15,7 +15,7 @@ namespace AposentadoriaApp
             Console.WriteLine("Digite o valor mensal a ser investido:");
             float valorMensal = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine("Digite a taxa de rendimento mensal (em decimal):");
+            Console.WriteLine("Digite a taxa de rendimento mensal em porcentagem:");
             float taxaRendimentoMensal = Convert.ToSingle(Console.ReadLine());
             float montanteAcumulado = AposentadoriaCalculadora.CalcularMontanteAcumulado(idadeAtual, idadeAposentadoria, valorMensal, taxaRendimentoMensal);
             float rendaMensal = AposentadoriaCalculadora.CalcularRendaMensal(montanteAcumulado, taxaRendimentoMensal);

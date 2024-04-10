@@ -12,7 +12,7 @@ namespace AposentadoriaApp
             for (int i = 0; i < mesesParaAposentadoria; i++)
             {
                 montanteAcumulado += valorMensal;
-                montanteAcumulado *= (1 + taxaRendimentoMensal);
+                montanteAcumulado *= 1+(taxaRendimentoMensal/100);
             }
 
             return montanteAcumulado;
@@ -20,7 +20,7 @@ namespace AposentadoriaApp
 
         public static float CalcularRendaMensal(float montanteAcumulado, float taxaRendimentoMensal)
         {
-            return montanteAcumulado * taxaRendimentoMensal;
+            return montanteAcumulado * (taxaRendimentoMensal/100);
         }
     }
 }

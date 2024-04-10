@@ -11,7 +11,8 @@
         Console.WriteLine("Informe a quilometragem final:");
         float kmFinal = float.Parse(Console.ReadLine());
 
-        float totalAluguel = AluguelCarro.CalcularAluguel(totalDias, kmInicial, kmFinal);
+        AluguelCarro aluguelCarro = new AluguelCarro();
+        float totalAluguel = aluguelCarro.CalcularAluguel(totalDias, kmInicial, kmFinal);
         Console.WriteLine($"O valor total do aluguel é: R${totalAluguel:F2}");
     }
 }
